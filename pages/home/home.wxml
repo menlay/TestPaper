@@ -1,0 +1,20 @@
+
+<view>
+  <!-- <text class="title" wx:for="{{items}}">
+  {{index}}、{{item}}
+  </text>
+  <input placeholder="输入新增事项" bind:input="inputHandler"/>
+  <button bind:tap="buttonHandler">确定</button> -->
+  <!-- <open-data type="userAvatarUrl"></open-data>
+  <open-data type="userNickName"></open-data> -->
+
+  <!-- <text class="title">hello {{name}}</text>
+  <button open-type="getUserInfo" bind:getuserinfo="buttonHandler">
+    授权获取用户个人信息
+  </button> -->
+<button type='primary' plain='true' bindtap="uploadPhoto">
+  选择图片
+</button>
+
+
+</view>
